@@ -19,4 +19,3 @@ def hello_there(request, name):
 
 def admin(request):
     return HttpResponse("Bye bye, Django!")
-
